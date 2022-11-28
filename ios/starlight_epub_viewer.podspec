@@ -12,7 +12,8 @@ Pod::Spec.new do |s|
 A new flutter plugin project.
                        DESC
 
-  s.homepage         = 'https://github.com/Waqar27324/FolioReaderAllDoneExceptBookmark.git'
+  s.homepage         = 'https://github.com/Waqar27324/FolioReaderKitWithBookmark.git'
+#   s.homepage         = 'https://github.com/Waqar27324/FolioReaderAllDoneExceptBookmark.git'
 
   s.license          = { :file => '../LICENSE' }
 
